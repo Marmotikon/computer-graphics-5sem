@@ -1,1 +1,1 @@
-# computer-graphics-5sem
+# Сomputer graphics labs
